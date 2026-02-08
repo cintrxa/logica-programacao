@@ -1,0 +1,9 @@
+Problema =
+Guardar dois valores numéricos.
+
+Descrição =
+- Um valor representa dinheiro
+- Outro valor representa um preço
+
+Objetivo =
+Apenas armazenar os valores para uso posterior
